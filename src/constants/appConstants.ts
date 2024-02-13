@@ -1,0 +1,1 @@
+export const API_URL:string = "https://openlibrary.org/people/mekBot/books/already-read.json"
